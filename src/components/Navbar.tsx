@@ -23,7 +23,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <NavLink to="/" className="flex items-center">
               <Briefcase className="h-8 w-8 text-blue-700" />
-              <span className="ml-2 text-xl font-bold text-gray-900">EduGuide AI
+              <span className="ml-2 text-xl font-bold text-gray-900">CareerGPT
 </span>
             </NavLink>
           </div>
